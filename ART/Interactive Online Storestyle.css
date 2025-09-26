@@ -91,7 +91,6 @@ body {
   font-family: monospace;
 }
 
-/* Hover effects for dropdown items */
 .dropdown-content a:hover {
   background-color: #FF6F61;
 }
